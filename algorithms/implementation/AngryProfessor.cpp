@@ -3,7 +3,7 @@ discipline, he decides to cancel class if fewer than K students are present when
 
 Given the arrival time of each student, determine if the class is canceled.
 
-Input Format
+Input Format 
 
 The first line of input contains T, the number of test cases.
 
