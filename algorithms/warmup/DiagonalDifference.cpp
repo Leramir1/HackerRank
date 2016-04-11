@@ -12,7 +12,7 @@ Print the absolute difference between the two sums of the matrix's diagonals as 
 integer.
 
 Sample Input
-
+ 
 3
 11 2 4                   
 4 5 6 					 
